@@ -1,0 +1,11 @@
+ReactDOM.render is no longer supported use createRoot instead.
+
+Default Props
+    Component.defaultProps = {
+        propName : "Value"
+    }
+
+Prop Types
+    Component.propTypes = {
+        propName : PropTypes.type
+    }
